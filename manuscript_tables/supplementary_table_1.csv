@@ -1,0 +1,851 @@
+species,accession,complex_literature,Tortoli,Fedrizzi,Romagnoli,complex_gtdb,historical,retained,new,dropped
+Mycobacterium abscessus,GCF_000069185.1,M. chelonae-abscessus complex,M. chelonae-abscessus complex,"","",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium acidiphilum,GCF_018455725.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium adipatum,GCF_001644575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium agri,GCF_002553505.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium ahvazicum,GCF_900176255.2,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium aichiense,GCF_010726245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium algericum,GCF_002086455.1,M. terrae complex,M. terrae complex,"","",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium algericum_A,GCF_003284925.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium alkanivorans,GCF_022760805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium alsense,GCF_002086635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium alvei,GCF_010727325.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium angelicum,GCF_025822405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium anyangense,GCF_010731855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium appelbergii,GCF_032883035.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium aquaticum,GCF_002086485.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium aquicola,GCA_965234515.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium arabiense,GCF_010731815.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium arenosum,GCF_024320865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium aromaticivorans,GCF_000559085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium arosiense,GCF_002086125.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium arosiense_A,GCF_003284935.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium arseniciresistens,GCF_030519285.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium arupense,GCF_002086515.1,M. terrae complex,M. terrae complex,"","",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium asiaticum,GCF_000613245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium asiaticum_A,GCF_001673365.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium asiaticum_B,GCF_001673315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium asiaticum_C,GCF_001673635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium asiaticum_D,GCF_001668675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium attenuatum,GCF_900566085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium aubagnense,GCF_010730955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium aurum,GCF_900637195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium aurum_A,GCA_900078775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium austroafricanum,GCF_000612725.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium avium,GCF_009741445.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium bacteremicum,GCF_002086115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium bacteremicum_A,GCF_943913955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium baixiangningiae,GCF_016313185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium barrassiae,GCF_025822765.1,M. smegmatis group,M. smegmatis group,"","",,TRUE,,FALSE,TRUE
+Mycobacterium basiliense,GCF_900292015.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium boenickei,GCF_010731295.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium bohemicum,GCF_001053185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium botniense,GCF_010723305.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium bourgelatii,GCF_010723575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium branderi,GCF_010728725.1,,,,,M. celatum group,FALSE,,TRUE,FALSE
+Mycobacterium brisbanense,GCF_001570425.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium brumae,GCF_025215495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium bulgaricum,GCF_041287165.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium burgundiense,GCF_963378095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium canariasense,GCF_002101555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium celatum,GCF_002101595.1,M. celatum group,M. celatum group,M. celatum group,"",M. celatum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium celeriflavum,GCF_010731795.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium celeriflavum_A,GCF_050205545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium chelonae,GCF_001632805.1,M. chelonae-abscessus complex,M. chelonae-abscessus complex,M. chelonae-abscessus complex,"",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium chelonae_A,GCA_014204435.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium chitae,GCF_900637205.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium chlorophenolicum,GCF_001044235.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium chubuense,GCF_001044255.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium chubuense_A,GCF_000266905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium colombiense,GCF_002105755.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium colombiense_A,GCF_001665835.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium colombiense_B,GCF_001953985.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium colombiense_C,GCF_001672755.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium confluentis,GCF_010729895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium conspicuum,GCF_010730195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium cookii,GCF_010727945.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium cosmeticum,GCF_000613185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium cosmeticum_A,GCA_016197365.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium crassicus,GCF_020181615.2,M. terrae complex,"","",M. terrae complex,M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium crocinum,GCF_022370635.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium decipiens,GCF_963853665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium deserti,GCF_025345615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium diernhoferi,GCF_019456655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium dioxanotrophicus,GCF_002157835.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium doricum,GCF_010728155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium duvalii,GCF_010726645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium elephantis,GCF_004014805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium engbaekii,GCF_002101585.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium europaeum,GCF_002102155.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. scrofulaceum group,TRUE,FALSE,TRUE,FALSE
+Mycobacterium europaeum_A,GCF_003284975.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium fallax,GCF_010726955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium flavescens,GCF_025822705.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium florentinum,GCF_010730355.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium fluoranthenivorans,GCF_011758805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium fortuitum,GCF_022179545.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium fortunisiensis,GCF_019050325.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium fragae,GCF_002102185.1,M. celatum group,M. celatum group,M. celatum group,"",,TRUE,,FALSE,TRUE
+Mycobacterium franklinii,GCF_002013895.1,M. chelonae-abscessus complex,M. chelonae-abscessus complex,"","",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium frederiksbergense,GCF_025822145.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium frederiksbergense_A,GCF_030499155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium frederiksbergense_B,GCF_029893345.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium gadium,GCF_010728925.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium gallinarum,GCF_010726765.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium gastri,GCF_002102175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium genavense,GCF_000526915.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium gilvum,GCF_900454025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium goodii,GCF_022370755.2,,,,,M. smegmatis group,FALSE,,TRUE,FALSE
+Mycobacterium goodii_B,GCF_001187505.1,,,,,M. smegmatis group,FALSE,,TRUE,FALSE
+Mycobacterium gordonae,GCF_002101675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium gordonae_B,GCF_031583025.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium gordonae_D,GCF_017086405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium grossiae,GCF_008329645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium gwanakae,GCF_016767715.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium haemophilum,GCF_000340435.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium hainanense,GCF_041890355.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium hassiacum,GCF_900603025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium heckeshornense,GCF_016592155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium heidelbergense,GCF_010730745.1,M. simiae complex,M. simiae complex,"","",,TRUE,,FALSE,TRUE
+Mycobacterium heidelbergense_A,GCF_050205645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium helveticum,GCF_007714205.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium helvum,GCF_010731895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium heraklionense,GCF_019645815.1,M. terrae complex,M. terrae complex,"","",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium heraklionense_A,GCF_046250095.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium heraklionense_C,GCA_024758765.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium hiberniae,GCF_010729485.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium hippocampi,GCF_025821585.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium hippocampi_A,GCF_039729195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium hodleri,GCF_025822245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium hodleri_A,GCF_006439015.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium hodleri_B,GCF_006864685.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium holsaticum,GCF_019645835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium holstebronense,GCF_963378105.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium houstonense,GCF_025823315.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium hubeiense,GCF_002838065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium icosiumassiliensis,GCF_900078685.2,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium immunogenum,GCF_001605725.1,M. chelonae-abscessus complex,"",M. chelonae-abscessus complex,"",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium innocens,GCF_900566055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium insubricum,GCF_010731615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium interjectum,GCF_900078675.2,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
+Mycobacterium interjectum_B,GCA_002102225.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium intermedium,GCF_002086275.1,M. simiae complex,M. simiae complex,"","",,TRUE,,FALSE,TRUE
+Mycobacterium intracellulare,GCF_000277125.1,M. avium complex,M. avium complex,M. avium complex,"",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium iranicum,GCF_002101705.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium iranicum_A,GCF_001650495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium iranicum_B,GCF_014190915.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium kansasii,GCF_000157895.3,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium kiyosense,GCA_021654635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium kokjensenii,GCF_963378075.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium komossense,GCF_025822605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium koreense,GCF_002104795.1,M. triviale group,M. triviale group,"","",M. triviale group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium kubicae,GCF_015689175.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
+Mycobacterium kumamotonense,GCF_002086285.1,M. terrae complex,M. terrae complex,"","",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium kyogaense,GCF_003254575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium kyogaense_A,GCF_036946525.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium kyorinense,GCF_002101735.1,M. celatum group,M. celatum group,M. celatum group,"",M. celatum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium kyorinense_A,GCF_001672775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium lacus,GCF_010731535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium lacusdiani,GCF_021916785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium lehmannii,GCF_002245535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium lentiflavum,GCF_022374895.2,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium leprae,GCF_000195855.1,M. leprae group,M. leprae group,"","",M. leprae group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium lepromatosis,GCF_000975265.2,M. leprae group,M. leprae group,"","",M. leprae group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium litorale,GCF_010731695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium litorale_A,GCA_002007745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium litorale_B,GCF_014218295.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium litorale_C,GCF_050205415.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium llatzerense,GCF_025331195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium longobardum,GCF_002102265.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium lutetiense,GCF_017876775.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium madagascariense,GCF_010729665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium mageritense,GCF_010727475.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium malmoense,GCF_019645855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium mantenii,GCF_010731775.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. avium complex,TRUE,FALSE,TRUE,FALSE
+Mycobacterium mantenii_A,GCF_001667865.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium marinum,GCF_003391395.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium marseillense,GCF_010731675.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium mengxianglii,GCF_015710575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium methanotrophicum,GCF_910591625.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium minnesotense,GCF_010731755.1,M. terrae complex,M. terrae complex,"","",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium monacense,GCF_010731575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium montefiorense,GCF_025823255.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium moriokaense,GCF_010726085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium moriokaense_A,GCF_003201655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium moriokaense_B,GCA_003347205.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium mucogenicum_B,GCF_005670685.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium nativiensis,GCF_020172685.2,M. terrae complex,"","",M. terrae complex,M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium nebraskense,GCF_002102255.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium neglectum,GCF_002591975.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium neoaurum,GCF_000691525.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium neoaurum_A,GCF_000317305.3,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium neoaurum_B,GCF_036946495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium neumannii_A,GCF_002245615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium neumannii_B,GCF_048452905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium neworleansense,GCF_001245615.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium nivoides,GCF_003855255.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium nonchromogenicum,GCF_002101775.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium noviomagense,GCF_010731635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium novocastrense,GCF_001570485.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium numidiamassiliense,GCF_900157365.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium ostraviense,GCF_002705925.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium palauense,GCF_002592005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium palustre,GCF_002101785.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
+Mycobacterium paraense,GCF_002101815.1,M. simiae complex,"",M. simiae complex,"",,TRUE,,FALSE,TRUE
+Mycobacterium paraffinicum,GCF_025822865.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium paraffinicum_A,GCF_001907675.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium parafortuitum,GCF_002086815.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium paragordonae,GCF_003614435.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium parakoreense,GCF_022370835.2,M. triviale group,M. triviale group,"","",M. triviale group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium parascrofulaceum,GCF_000164135.1,M. simiae complex,M. simiae complex,"","",M. scrofulaceum group,TRUE,FALSE,TRUE,FALSE
+Mycobacterium paraseoulense,GCF_010731655.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium paraterrae,GCF_022430545.2,M. terrae complex,M. terrae complex,"","",,TRUE,,FALSE,TRUE
+Mycobacterium parmense,GCF_010730575.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
+Mycobacterium peregrinum,GCF_002102345.1,M. fortuitum complex,M. fortuitum complex,M. fortuitum complex,"",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium peregrinum_A,GCF_001665785.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium peregrinum_B,GCF_001665625.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium persicum,GCF_002086675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium phlei,GCF_001583415.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium phocaicum,GCF_010731115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium pinniadriaticum,GCF_026242035.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium porcinum,GCF_025823105.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium porcinum_A,GCA_001942045.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium poriferae,GCF_010728325.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium pseudokansasii,GCF_900566075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium psychrotolerans,GCF_010729305.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium psychrotolerans_A,GCF_050632215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium pulveris,GCF_010725725.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium pulveris_A,GCF_050205315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium pyrenivorans,GCF_025821625.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium rhizamassiliense,GCF_900157375.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium rhodesiae,GCF_002086695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium rhodesiae_A,GCF_000230895.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium rhodesiae_B,GCA_000230935.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium riyadhense,GCF_963853645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium rufum,GCF_022374875.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium rutilum,GCF_900108565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium salmoniphilum,GCF_004924335.1,M. chelonae-abscessus complex,M. chelonae-abscessus complex,"","",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium saopaulense,GCF_001456355.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sarraceniae,GCF_010731875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium saskatchewanense,GCF_010729105.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
+Mycobacterium scrofulaceum,GCF_002086735.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium scrofulaceum_C,GCF_001667885.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sediminis,GCF_025822985.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium senegalense,GCF_019645875.1,M. fortuitum complex,M. fortuitum complex,M. fortuitum complex,"",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium senriense,GCF_019668465.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium senuense,GCF_002101885.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium seoulense,GCF_010731595.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium septicum,GCF_000455325.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium servetii,GCF_041206865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium setense,GCF_000805385.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium sherrisii,GCF_002102355.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium shigaense,GCF_002356315.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium shimoidei,GCF_025822885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium shinjukuense,GCF_010730055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium simiae,GCF_010727605.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium simiae_A,GCF_008370645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium simulans,GCF_900232995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sinense_A,GCF_001667375.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium sinense_B,GCF_001667945.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium sinense_C,GCF_001673565.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium smegmatis,GCF_001457595.1,M. smegmatis group,M. smegmatis group,"","",M. smegmatis group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium sp000328565,GCF_000328565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp000373905,GCF_000373905.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp000382405,GCF_000382405.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp000426065,GCF_000426065.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp000455125,GCF_000455125.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp000455205,GCF_000455205.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp000620625,GCF_000620625.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001021385,GCF_001021385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001426545,GCF_001426545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001428895,GCF_001428895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001494595,GCF_001494595.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001499855,GCF_001499855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001499905,GCF_001499905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001499965,GCF_001499965.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001499995,GCF_001499995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001500025,GCF_001500025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001500045,GCF_001500045.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001500065,GCF_001500065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001500125,GCF_001500125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001510415,GCA_027728805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001545925,GCF_001545925.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001665235,GCA_001665235.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001665255,GCA_001665255.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001665295,GCA_001665295.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001665395,GCF_001665395.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001665535,GCF_001665535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001665575,GCF_001665575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001665685,GCF_001665685.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001665875,GCF_001665875.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001666755,GCF_001666755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001666835,GCF_001666835.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667015,GCF_001667015.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001667035,GCF_001667035.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001667075,GCF_001667075.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667115,GCF_001667115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001667145,GCF_001667145.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001667185,GCF_001667185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001667265,GCF_001667265.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001667275,GCF_001667275.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667315,GCF_001667315.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001667505,GCF_001667505.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001667585,GCF_001667585.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667665,GCF_001667665.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667735,GCF_001667735.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667775,GCF_001667775.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667925,GCF_001667925.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001668575,GCF_001668575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001668615,GCF_001668615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001668625,GCF_001668625.1,,,,,M. triviale group,FALSE,,TRUE,FALSE
+Mycobacterium sp001668725,GCF_001668725.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001672815,GCF_001672815.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001672895,GCF_001672895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001672915,GCF_001672915.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001672975,GCF_001672975.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001673155,GCF_001673155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001673405,GCF_001673405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001673535,GCF_001673535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001673555,GCF_001673555.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001905655,GCF_001905655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001953975,GCF_001953975.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001954135,GCF_001954135.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001954195,GCF_001954195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001954275,GCF_001954275.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp001984215,GCF_001984215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002013375,GCF_002013375.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp002013415,GCA_002013415.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp002013465,GCA_002013465.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp002013775,GCA_002013775.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp002043095,GCF_002043095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002723835,GCF_002723835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002863225,GCF_002863225.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002887815,GCF_002887815.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002946335,GCF_010725485.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002968285,GCF_002968285.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002968295,GCF_002968295.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp002968335,GCF_002968335.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp003053865,GCF_013337765.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp003165155,GCA_003165155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp003284965,GCF_003284965.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp003402475,GCF_003402475.1,,,,,M. celatum group,FALSE,,TRUE,FALSE
+Mycobacterium sp003987775,GCF_030755175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp004298145,GCF_004298145.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp004362315,GCF_004362315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp004570325,GCF_004570325.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp004745805,GCF_004745805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp004762045,GCF_004762045.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp005222675,GCF_005222675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp005789055,GCA_005789055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp007096635,GCF_007096635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp008329535,GCF_008329535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp008329565,GCF_008329565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp008329585,GCF_008329585.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp008329605,GCF_008329605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp008329905,GCF_008329905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp008709575,GCF_008709575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp009729075,GCF_009729075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp009729095,GCF_009729095.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp009729205,GCF_009729205.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp009729415,GCF_009729415.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp011620645,GCA_963697475.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp011694515,GCF_011694515.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp011745145,GCF_011745145.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp013449725,GCF_013449725.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp014202335,GCF_014202335.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp014873705,GCF_014873705.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp016197405,GCA_016197405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp016462545,GCF_016462545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp016462945,GCF_016462945.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp017312405,GCF_048396365.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp017352375,GCF_017352375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp017853185,GCF_017853185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018268465,GCA_018268465.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018326285,GCF_018326285.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018361265,GCF_018361265.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018401645,GCA_018401645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018500005,GCA_018500005.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018882545,GCA_018882545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018882965,GCA_018882965.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp018883075,GCA_018883075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019236925,GCA_019236925.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019242135,GCA_019242135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019243155,GCF_019243155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019245755,GCA_019245755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019246375,GCA_019246375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019247615,GCF_019247615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019247635,GCF_019247635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019749805,GCA_019749805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp019751635,GCA_019751635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020217485,GCF_020217485.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp020438785,GCA_020438785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020438845,GCA_020438845.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020438865,GCA_020438865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020438895,GCA_020438895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020438905,GCA_020438905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020438915,GCA_020438915.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020439025,GCA_020439025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp020637165,GCF_020637165.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp021154745,GCF_045807025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp021213805,GCF_021213805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp021413425,GCA_040398865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp021648845,GCA_021648845.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp021732005,GCA_021732005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022317005,GCF_022317005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022348085,GCF_022348085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022557175,GCF_022557175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022600605,GCA_022600605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022600695,GCA_022600695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022601135,GCA_022601135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022601275,GCA_022601275.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022708865,GCA_022708865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp022841565,GCA_022841565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023264735,GCA_023264735.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023264755,GCA_023264755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023264765,GCA_023264765.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023404955,GCA_023404955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023415515,GCA_023415515.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023416315,GCA_023416315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp023460175,GCA_023460175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025263265,GCF_025263265.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025263485,GCF_025263485.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp025263565,GCF_025263565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025933915,GCF_025933915.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp025963195,GCA_025963195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025963385,GCA_025963385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025965555,GCA_025965555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025965815,GCA_025965815.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025965855,GCF_025965855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025965895,GCA_025965895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025965975,GCF_025965975.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp025966225,GCA_025966225.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp026240945,GCF_026240945.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp026393245,GCA_026393245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp026625985,GCF_026625985.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp026723865,GCF_026723865.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp027706845,GCF_027706845.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp028706695,GCA_028706695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029256565,GCA_029256565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029623955,GCF_029623955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029780675,GCA_029780675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029892685,GCF_029892685.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029961025,GCF_029961025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029977845,GCA_029977845.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp029979305,GCA_029979305.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp030209435,GCF_030209435.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp030295745,GCF_030295745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp030486405,GCF_030486405.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp030666145,GCA_030666145.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp030836785,GCA_030836785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp031292665,GCA_031292665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp031292695,GCA_031292695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032117575,GCF_032117575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032159565,GCA_032159565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032159765,GCA_032159765.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032159775,GCA_032159775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032159915,GCA_032159915.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032159965,GCA_032159965.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032161845,GCA_032161845.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032161985,GCA_032161985.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032162105,GCA_032162105.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032162325,GCA_032162325.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032162385,GCA_032162385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032162485,GCA_032162485.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032162605,GCA_032162605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032162865,GCA_032162865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp032230775,GCA_032230775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp033741125,GCF_033741125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp033741155,GCF_033741155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp033741175,GCF_033741175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp033804465,GCF_033804465.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp033804605,GCF_033804605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp033804635,GCF_033804635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp034189785,GCA_034189785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp034190095,GCA_034190095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp034520035,GCA_034520035.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035253445,GCA_035253445.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035274705,GCF_035274705.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035279185,GCA_035279185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035314665,GCF_035314665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035314905,GCF_035314905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035314925,GCA_035314925.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035345915,GCA_964611465.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035472875,GCA_035472875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035491595,GCA_963698965.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035492865,GCA_035492865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035499775,GCF_035499775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035505695,GCA_035505695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035506235,GCF_035506235.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035506875,GCA_035506875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035511785,GCA_035511785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035515675,GCA_035515675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035552295,GCA_035552295.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035552835,GCA_035552835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035569455,GCA_035569455.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035570115,GCF_035570115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035603715,GCF_035603715.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035606475,GCA_035606475.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035616495,GCF_035616495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035617725,GCF_035617725.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp035623875,GCF_035623875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035625875,GCA_035625875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035633495,GCA_035633495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035634855,GCA_035634855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035640695,GCF_035640695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035642315,GCA_035642315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035642975,GCA_035642975.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035649695,GCA_035649695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035651275,GCA_035651275.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035653355,GCF_035653355.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035693385,GCA_035693385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035697385,GCF_035697385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035716165,GCA_035716165.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp035721065,GCA_035721065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035918395,GCF_035918395.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp035996225,GCA_035996225.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp036023875,GCF_036023875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036235365,GCF_036235365.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp036263935,GCA_036263935.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036265655,GCA_046735135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036272035,GCA_036272035.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036273375,GCA_036273375.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp036273805,GCA_036273805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036338755,GCA_036338755.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp036390735,GCA_036390735.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036409085,GCF_036409085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036409155,GCF_036409155.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp036488105,GCF_036488105.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036490025,GCF_036490025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036495965,GCA_036495965.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036497495,GCA_036497495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036500645,GCA_036500645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036519055,GCA_036519055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036558625,GCA_036558625.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036746615,GCA_036746615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp036782595,GCA_036782595.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp037129875,GCA_037129875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp037138275,GCA_037138275.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp037138615,GCA_037138615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp037140245,GCA_964653535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp037141465,GCA_037141465.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp038244615,GCA_038244615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp039023525,GCF_039023525.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp039583405,GCF_050408545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp039583785,GCF_039583785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp039583805,GCF_039583805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp039871645,GCF_039871645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp039922455,GCA_039922455.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp039935195,GCA_039935195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040398885,GCA_040398885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040509115,GCA_040509115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040511255,GCA_040511255.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040511335,GCA_040511335.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040512325,GCA_040512325.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040614235,GCF_040614235.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040655355,GCF_040655355.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp040674075,GCF_040674075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp040704635,GCA_040704635.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp040752555,GCA_040752555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp041261665,GCF_041261665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp041287095,GCF_041287095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp041287115,GCF_041287115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp041287235,GCF_041287235.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp041303695,GCA_041303695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp041303735,GCA_041303735.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp042666295,GCF_042666295.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp043197955,GCF_043197955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp043974665,GCF_043974665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp044223235,GCA_044223235.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp044342925,GCA_044342925.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp044370595,GCA_044370595.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp044452905,GCF_044452905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp044508395,GCA_044508395.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp045343915,GCF_045343915.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp045809005,GCF_045809005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp046091765,GCA_046091765.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp046095365,GCA_046095365.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp046250075,GCF_046250075.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp046330795,GCA_046330795.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp046330855,GCA_046330855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp046330895,GCA_046330895.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp046725575,GCA_046725575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp047975165,GCF_047975165.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp048282725,GCF_048282725.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp049278535,GCF_049278535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049280035,GCF_049280035.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049280695,GCA_049280695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049281135,GCF_049281135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049315205,GCF_049315205.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049315425,GCA_049315425.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049522835,GCA_049522835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049585075,GCF_049585075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049589475,GCA_049589475.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049608025,GCA_049608025.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049608285,GCA_049608285.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049647605,GCA_049647605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049673265,GCF_049673265.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049683355,GCA_049683355.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049683935,GCA_049683935.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp049802695,GCF_049802695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050175175,GCF_050175175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050205565,GCF_050205565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050250295,GCF_050250295.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050262635,GCA_050262635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050700595,GCF_050700595.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050701515,GCA_050701515.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050701675,GCA_050701675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp050701835,GCA_050701835.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium sp051006775,GCA_051006775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp051306175,GCA_051306175.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp051306235,GCA_051306235.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp052044345,GCF_052044345.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp052114565,GCF_052114565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp052143115,GCF_052143115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp052144515,GCF_052144515.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp052145595,GCF_052145595.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp900078375,GCA_900078375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp900240945,GCF_900240945.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp900240975,GCF_900240975.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp902652685,GCF_902652685.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp902826815,GCA_902826815.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp903862565,GCA_903862565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp903877095,GCA_903877095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp903884065,GCA_903884065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp903911165,GCA_964203005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp903927745,GCA_903927745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp937941905,GCF_937941905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp943331415,GCA_943331415.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp945882475,GCA_945882475.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp945957405,GCA_945957405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963699655,GCA_963699655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963703795,GCA_963703795.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963707745,GCA_963707745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963708995,GCA_963708995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963709125,GCA_963709125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963711445,GCA_963711445.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963711755,GCA_963711755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963712615,GCA_963712615.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963713225,GCA_963713225.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963715145,GCA_963715145.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963715215,GCA_963715215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963715885,GCA_963715885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963715905,GCA_963715905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963716465,GCA_963716465.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963716505,GCA_963716505.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963720085,GCA_963720085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963720345,GCA_963720345.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963721195,GCA_963721195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963721495,GCA_963721495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963723615,GCA_963723615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963724165,GCA_963724165.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963726875,GCA_963726875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963728815,GCA_963728815.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963730415,GCA_963730415.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963731195,GCA_963731195.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963731715,GCA_963731715.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963732835,GCA_963732835.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp963733605,GCA_963733605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963733755,GCA_963733755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963734385,GCA_963734385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963735245,GCA_963735245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963735655,GCA_963735655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963736825,GCA_963736825.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963737375,GCA_963737375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963737385,GCA_963737385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963738695,GCA_963738695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963741555,GCA_963741555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963743145,GCA_963743145.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963743225,GCA_963743225.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963744085,GCA_963744085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963744835,GCA_963744835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963746755,GCA_963746755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963748885,GCA_963748885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963749375,GCA_963749375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963750755,GCA_963750755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963750885,GCA_963750885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963751315,GCA_963751315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963751485,GCA_963751485.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963753095,GCA_963753095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963753505,GCA_963753505.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963753995,GCA_963753995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963755805,GCA_963755805.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963756865,GCA_963756865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963757215,GCA_963757215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963758115,GCA_963758115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963758775,GCA_963758775.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963758825,GCA_963758825.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963759655,GCA_963759655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963760095,GCA_963760095.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963762535,GCA_963762535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963762625,GCA_963762625.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963763005,GCA_963763005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963765155,GCA_963765155.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963765445,GCA_963765445.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963766465,GCA_963766465.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963766535,GCA_963766535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963766945,GCA_963766945.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963767375,GCA_963767375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963767765,GCA_963767765.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963770125,GCA_963770125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963770305,GCA_963770305.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963771335,GCA_963771335.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963772875,GCA_963772875.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963775205,GCA_963775205.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963777275,GCA_963777275.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963777885,GCA_963777885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963778135,GCA_963778135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963779655,GCA_963779655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963780335,GCA_963780335.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963780705,GCA_963780705.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963781685,GCA_963781685.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963784665,GCA_963784665.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963784685,GCA_963784685.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963785625,GCA_963785625.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963786695,GCA_963786695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963786995,GCA_963786995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963787055,GCA_963787055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963787635,GCA_963787635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963788075,GCA_963788075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963791215,GCA_963791215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963791535,GCA_963791535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963792745,GCA_963792745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963793055,GCA_963793055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963794245,GCA_963794245.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963794785,GCA_963794785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963795995,GCA_963795995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963796035,GCA_963796035.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963796185,GCA_963796185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963796545,GCA_963796545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963796825,GCA_963796825.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963797865,GCA_963797865.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963798245,GCA_963798245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963798405,GCA_963798405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963799495,GCA_963799495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963800125,GCA_963800125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963800315,GCA_963800315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963801365,GCA_963801365.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963801575,GCA_963801575.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963802525,GCA_963802525.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963804905,GCA_963804905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963805675,GCA_963805675.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963805835,GCA_963805835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963808345,GCA_963808345.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963808375,GCA_963808375.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963809085,GCA_963809085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963809285,GCA_963809285.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963809515,GCA_963809515.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963811535,GCA_963811535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963813275,GCA_963813275.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963813935,GCA_963813935.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963814505,GCA_963814505.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963815705,GCA_963815705.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963815995,GCA_963815995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963816495,GCA_963816495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963817825,GCA_963817825.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963818285,GCA_963818285.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963818785,GCA_963818785.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963820045,GCA_963820045.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp963820985,GCA_963820985.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963822305,GCA_963822305.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963822655,GCA_963822655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963824335,GCA_963824335.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963824505,GCA_963824505.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963826365,GCA_963826365.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963828065,GCA_963828065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963829405,GCA_963829405.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963830605,GCA_963830605.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963832935,GCA_963832935.1,,,,,M. simiae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963833915,GCA_963833915.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963833935,GCA_963833935.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963834615,GCA_963834615.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963834955,GCA_963834955.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963835075,GCA_963835075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963836495,GCA_963836495.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963836555,GCA_963836555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963838755,GCA_963838755.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963839345,GCA_963839345.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963840045,GCA_963840045.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963841555,GCA_963841555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963843125,GCA_963843125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963843135,GCA_963843135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963845595,GCA_963845595.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963846905,GCA_963846905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963846985,GCA_963846985.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963848185,GCA_963848185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963848535,GCA_963848535.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963848855,GCA_963848855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963849055,GCA_963849055.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963849935,GCA_963849935.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
+Mycobacterium sp963850135,GCA_963850135.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963850645,GCA_963850645.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp963850895,GCA_963850895.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp963851115,GCA_963851115.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964000695,GCF_964000695.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964195655,GCA_964195655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964202555,GCA_964202555.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964249325,GCF_964249325.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964292075,GCA_964292075.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp964344085,GCA_964344085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964387245,GCA_964387245.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964397355,GCA_964397355.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium sp964397935,GCA_964397935.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964413455,GCA_964413455.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964439315,GCA_964439315.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964447215,GCA_964447215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964453085,GCA_964453085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964463215,GCA_964463215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964466565,GCA_964466565.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964483865,GCA_964483865.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964498215,GCA_964498215.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964509355,GCA_964509355.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964511995,GCA_964511995.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964513475,GCA_964513475.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964525125,GCA_964525125.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964527015,GCA_964527015.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964535335,GCA_964535335.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964555915,GCA_964555915.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964562545,GCA_964562545.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964579685,GCA_964579685.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964590745,GCA_964590745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964598975,GCA_964598975.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964629725,GCA_964629725.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp964658855,GCA_964658855.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp965229105,GCA_965229105.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp965229265,GCA_965229265.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp965230835,GCF_965230835.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp965277065,GCF_965277065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp965279745,GCA_965279745.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sp965295185,GCF_965295185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium sphagni,GCF_002250655.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium spongiae,GCF_018278905.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium stellerae,GCF_003719305.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium stephanolepidis,GCF_002356335.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
+Mycobacterium stomatepiae,GCF_010731715.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium syngnathidarum,GCF_001942625.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
+Mycobacterium szulgai,GCF_002116635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium talmoniae,GCA_002967005.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium terrae,GCF_010727125.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium terramassiliense,GCF_900157385.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium thermoresistibile,GCF_900187065.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium tilburgii,GCF_902168065.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium tokaiense,GCF_010725885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium triplex,GCF_000689255.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. simiae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium triviale,GCF_002102395.1,M. triviale group,M. triviale group,"","",M. triviale group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium tuberculosis,GCF_000195955.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium tusciae,GCF_002086795.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium tusciae_A,GCF_000243415.2,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium uberis,GCF_003408705.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium vaccae,GCF_001552715.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium vaccae_A,GCF_050205485.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium vanbaalenii_A,GCF_902705885.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium vasticus,GCF_020181595.2,M. terrae complex,"","",M. terrae complex,M. terrae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium vicinigordonae,GCF_013466425.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium vinylchloridicum,GCF_013404075.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium virginiense,GCF_022374935.2,,,,,M. terrae complex,FALSE,,TRUE,FALSE
+Mycobacterium vulneris,GCF_002104765.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium wendilense,GCF_963378085.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium wolinskyi,GCF_002101965.1,M. smegmatis group,"",M. smegmatis group,"",M. smegmatis group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium wuenschmannii,GCF_030252325.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium xanthum,GCF_019710635.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium xenopi,GCF_009936235.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium yunnanensis,GCF_025823185.1,,,,,,FALSE,,FALSE,FALSE
+Mycobacterium zoologicum,GCF_020181635.2,M. terrae complex,"","",M. terrae complex,M. terrae complex,TRUE,TRUE,FALSE,FALSE

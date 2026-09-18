@@ -86,4 +86,22 @@ create_itol_colour_strip_config <- function(leaf_names,values,name,colour_conf) 
 
 
 
-values <- df$gtdb_complex
+text_label_template <- r"(
+DATASET_TEXT
+SEPARATOR COMMA
+DATASET_LABEL,%s
+COLOR,#000000
+
+DATA
+)"
+
+create_itol_text_label_config <- function(leaf_names, labels, name) {
+    config_string <- sprintf(text_label_template, name)
+    
+    data_strings <- c()
+    for (i in seq_along(leaf_names)) {
+        data_strings <- c(data_strings, paste(leaf_names[i], labels[i], '-1','#000000','normal',1,0, sep = ","))
+    }
+    
+    return(paste(config_string, paste(data_strings, collapse = "\n"), sep = "\n"))
+}

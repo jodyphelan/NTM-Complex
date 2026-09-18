@@ -38,6 +38,10 @@ create_itol_colour_strip_config(df$accession, df$complex_literature, "complex_li
 create_itol_colour_strip_config(df$accession, df$complex_gtdb, "complex_gtdb_colour_strip", colour_conf) %>%
   writeLines(file.path("processed_data", "complex_gtdb_colour_strip.txt"))
 
+create_itol_text_label_config(df$accession, df$species, "species_text_labels") %>%
+  writeLines(file.path("processed_data", "species_text_labels.txt"))
+
+
 ##### iTOL Range Annotations #####
 
 # get a list of unique complex names from the complex_gtdb column filtering out empty values

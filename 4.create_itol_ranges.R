@@ -12,14 +12,14 @@ df<-read.csv(file.path("manuscript_tables", "supplementary_table_1.csv"), header
 colour_conf <- list(
   "M. avium complex" = "#A6CEE3",
   "M. simiae complex" = "#FF7F00",
-  "M. scrofulaceum group" = "#B2DF8A",
+  "M. scrofulaceum complex" = "#B2DF8A",
   "M. terrae complex" = "#6A3D9A",
   "M. chelonae-abscessus complex" = "#E31A1C",
-  "M. triviale group" = "#FDBF6F",
-  "M. celatum group" = "#1F78B4",
+  "M. triviale complex" = "#FDBF6F",
+  "M. celatum complex" = "#1F78B4",
   "M. fortuitum complex" = "#33A02C",
-  "M. smegmatis group" = "#CAB2D6",
-  "M. leprae group" = "#FB9A99"
+  "M. smegmatis complex" = "#CAB2D6",
+  "M. leprae complex" = "#FB9A99"
 )
 
 create_itol_colour_strip_config(df$accession, df$Tortoli, "Tortoli", colour_conf) %>%

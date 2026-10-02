@@ -36,19 +36,19 @@ Mycobacterium avium,GCF_009741445.1,M. avium complex,M. avium complex,"","",M. a
 Mycobacterium bacteremicum,GCF_002086115.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium bacteremicum_A,GCF_943913955.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium baixiangningiae,GCF_016313185.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium barrassiae,GCF_025822765.1,M. smegmatis group,M. smegmatis group,"","",,TRUE,,FALSE,TRUE
+Mycobacterium barrassiae,GCF_025822765.1,M. smegmatis complex,M. smegmatis complex,"","",,TRUE,,FALSE,TRUE
 Mycobacterium basiliense,GCF_900292015.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium boenickei,GCF_010731295.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium bohemicum,GCF_001053185.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium botniense,GCF_010723305.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium bourgelatii,GCF_010723575.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium branderi,GCF_010728725.1,,,,,M. celatum group,FALSE,,TRUE,FALSE
+Mycobacterium branderi,GCF_010728725.1,,,,,M. celatum complex,FALSE,,TRUE,FALSE
 Mycobacterium brisbanense,GCF_001570425.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium brumae,GCF_025215495.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium bulgaricum,GCF_041287165.2,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium burgundiense,GCF_963378095.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium canariasense,GCF_002101555.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium celatum,GCF_002101595.1,M. celatum group,M. celatum group,M. celatum group,"",M. celatum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium celatum,GCF_002101595.1,M. celatum complex,M. celatum complex,M. celatum complex,"",M. celatum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium celeriflavum,GCF_010731795.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium celeriflavum_A,GCF_050205545.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium chelonae,GCF_001632805.1,M. chelonae-abscessus complex,M. chelonae-abscessus complex,M. chelonae-abscessus complex,"",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
@@ -76,7 +76,7 @@ Mycobacterium doricum,GCF_010728155.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium duvalii,GCF_010726645.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium elephantis,GCF_004014805.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium engbaekii,GCF_002101585.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
-Mycobacterium europaeum,GCF_002102155.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. scrofulaceum group,TRUE,FALSE,TRUE,FALSE
+Mycobacterium europaeum,GCF_002102155.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. scrofulaceum complex,TRUE,FALSE,TRUE,FALSE
 Mycobacterium europaeum_A,GCF_003284975.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium fallax,GCF_010726955.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium flavescens,GCF_025822705.1,,,,,,FALSE,,FALSE,FALSE
@@ -84,7 +84,7 @@ Mycobacterium florentinum,GCF_010730355.1,M. simiae complex,M. simiae complex,M.
 Mycobacterium fluoranthenivorans,GCF_011758805.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium fortuitum,GCF_022179545.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium fortunisiensis,GCF_019050325.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
-Mycobacterium fragae,GCF_002102185.1,M. celatum group,M. celatum group,M. celatum group,"",,TRUE,,FALSE,TRUE
+Mycobacterium fragae,GCF_002102185.1,M. celatum complex,M. celatum complex,M. celatum complex,"",,TRUE,,FALSE,TRUE
 Mycobacterium franklinii,GCF_002013895.1,M. chelonae-abscessus complex,M. chelonae-abscessus complex,"","",M. chelonae-abscessus complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium frederiksbergense,GCF_025822145.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium frederiksbergense_A,GCF_030499155.1,,,,,,FALSE,,FALSE,FALSE
@@ -94,15 +94,15 @@ Mycobacterium gallinarum,GCF_010726765.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium gastri,GCF_002102175.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium genavense,GCF_000526915.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium gilvum,GCF_900454025.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium goodii,GCF_022370755.2,,,,,M. smegmatis group,FALSE,,TRUE,FALSE
-Mycobacterium goodii_B,GCF_001187505.1,,,,,M. smegmatis group,FALSE,,TRUE,FALSE
+Mycobacterium goodii,GCF_022370755.2,,,,,M. smegmatis complex,FALSE,,TRUE,FALSE
+Mycobacterium goodii_B,GCF_001187505.1,,,,,M. smegmatis complex,FALSE,,TRUE,FALSE
 Mycobacterium gordonae,GCF_002101675.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium gordonae_B,GCF_031583025.2,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium gordonae_D,GCF_017086405.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium grossiae,GCF_008329645.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium gwanakae,GCF_016767715.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
 Mycobacterium haemophilum,GCF_000340435.2,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium hainanense,GCF_041890355.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium hainanense,GCF_041890355.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium hassiacum,GCF_900603025.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium heckeshornense,GCF_016592155.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium heidelbergense,GCF_010730745.1,M. simiae complex,M. simiae complex,"","",,TRUE,,FALSE,TRUE
@@ -137,19 +137,19 @@ Mycobacterium kansasii,GCF_000157895.3,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium kiyosense,GCA_021654635.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium kokjensenii,GCF_963378075.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
 Mycobacterium komossense,GCF_025822605.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium koreense,GCF_002104795.1,M. triviale group,M. triviale group,"","",M. triviale group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium koreense,GCF_002104795.1,M. triviale complex,M. triviale complex,"","",M. triviale complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium kubicae,GCF_015689175.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
 Mycobacterium kumamotonense,GCF_002086285.1,M. terrae complex,M. terrae complex,"","",M. terrae complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium kyogaense,GCF_003254575.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium kyogaense_A,GCF_036946525.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium kyorinense,GCF_002101735.1,M. celatum group,M. celatum group,M. celatum group,"",M. celatum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium kyorinense,GCF_002101735.1,M. celatum complex,M. celatum complex,M. celatum complex,"",M. celatum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium kyorinense_A,GCF_001672775.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium lacus,GCF_010731535.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium lacusdiani,GCF_021916785.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium lehmannii,GCF_002245535.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium lentiflavum,GCF_022374895.2,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
-Mycobacterium leprae,GCF_000195855.1,M. leprae group,M. leprae group,"","",M. leprae group,TRUE,TRUE,FALSE,FALSE
-Mycobacterium lepromatosis,GCF_000975265.2,M. leprae group,M. leprae group,"","",M. leprae group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium leprae,GCF_000195855.1,M. leprae complex,M. leprae complex,"","",M. leprae complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium lepromatosis,GCF_000975265.2,M. leprae complex,M. leprae complex,"","",M. leprae complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium litorale,GCF_010731695.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium litorale_A,GCA_002007745.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium litorale_B,GCF_014218295.1,,,,,,FALSE,,FALSE,FALSE
@@ -160,7 +160,7 @@ Mycobacterium lutetiense,GCF_017876775.1,,,,,M. fortuitum complex,FALSE,,TRUE,FA
 Mycobacterium madagascariense,GCF_010729665.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium mageritense,GCF_010727475.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium malmoense,GCF_019645855.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium mantenii,GCF_010731775.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. avium complex,TRUE,FALSE,TRUE,FALSE
+Mycobacterium mantenii,GCF_010731775.1,M. scrofulaceum complex,M. scrofulaceum complex,"","",M. avium complex,TRUE,FALSE,TRUE,FALSE
 Mycobacterium mantenii_A,GCF_001667865.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium marinum,GCF_003391395.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium marseillense,GCF_010731675.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
@@ -174,7 +174,7 @@ Mycobacterium moriokaense_A,GCF_003201655.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium moriokaense_B,GCA_003347205.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium mucogenicum_B,GCF_005670685.2,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium nativiensis,GCF_020172685.2,M. terrae complex,"","",M. terrae complex,M. terrae complex,TRUE,TRUE,FALSE,FALSE
-Mycobacterium nebraskense,GCF_002102255.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium nebraskense,GCF_002102255.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium neglectum,GCF_002591975.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium neoaurum,GCF_000691525.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium neoaurum_A,GCF_000317305.3,,,,,,FALSE,,FALSE,FALSE
@@ -191,13 +191,13 @@ Mycobacterium ostraviense,GCF_002705925.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium palauense,GCF_002592005.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium palustre,GCF_002101785.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
 Mycobacterium paraense,GCF_002101815.1,M. simiae complex,"",M. simiae complex,"",,TRUE,,FALSE,TRUE
-Mycobacterium paraffinicum,GCF_025822865.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
-Mycobacterium paraffinicum_A,GCF_001907675.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium paraffinicum,GCF_025822865.1,M. scrofulaceum complex,M. scrofulaceum complex,"","",M. scrofulaceum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium paraffinicum_A,GCF_001907675.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium parafortuitum,GCF_002086815.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium paragordonae,GCF_003614435.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium parakoreense,GCF_022370835.2,M. triviale group,M. triviale group,"","",M. triviale group,TRUE,TRUE,FALSE,FALSE
-Mycobacterium parascrofulaceum,GCF_000164135.1,M. simiae complex,M. simiae complex,"","",M. scrofulaceum group,TRUE,FALSE,TRUE,FALSE
-Mycobacterium paraseoulense,GCF_010731655.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium parakoreense,GCF_022370835.2,M. triviale complex,M. triviale complex,"","",M. triviale complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium parascrofulaceum,GCF_000164135.1,M. simiae complex,M. simiae complex,"","",M. scrofulaceum complex,TRUE,FALSE,TRUE,FALSE
+Mycobacterium paraseoulense,GCF_010731655.1,M. scrofulaceum complex,M. scrofulaceum complex,"","",M. scrofulaceum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium paraterrae,GCF_022430545.2,M. terrae complex,M. terrae complex,"","",,TRUE,,FALSE,TRUE
 Mycobacterium parmense,GCF_010730575.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
 Mycobacterium peregrinum,GCF_002102345.1,M. fortuitum complex,M. fortuitum complex,M. fortuitum complex,"",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
@@ -227,13 +227,13 @@ Mycobacterium salmoniphilum,GCF_004924335.1,M. chelonae-abscessus complex,M. che
 Mycobacterium saopaulense,GCF_001456355.1,,,,,M. chelonae-abscessus complex,FALSE,,TRUE,FALSE
 Mycobacterium sarraceniae,GCF_010731875.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium saskatchewanense,GCF_010729105.1,M. simiae complex,M. simiae complex,M. simiae complex,"",,TRUE,,FALSE,TRUE
-Mycobacterium scrofulaceum,GCF_002086735.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
-Mycobacterium scrofulaceum_C,GCF_001667885.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium scrofulaceum,GCF_002086735.1,M. scrofulaceum complex,M. scrofulaceum complex,"","",M. scrofulaceum complex,TRUE,TRUE,FALSE,FALSE
+Mycobacterium scrofulaceum_C,GCF_001667885.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sediminis,GCF_025822985.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium senegalense,GCF_019645875.1,M. fortuitum complex,M. fortuitum complex,M. fortuitum complex,"",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium senriense,GCF_019668465.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium senuense,GCF_002101885.1,M. terrae complex,M. terrae complex,M. terrae complex,"",M. terrae complex,TRUE,TRUE,FALSE,FALSE
-Mycobacterium seoulense,GCF_010731595.1,M. scrofulaceum group,M. scrofulaceum group,"","",M. scrofulaceum group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium seoulense,GCF_010731595.1,M. scrofulaceum complex,M. scrofulaceum complex,"","",M. scrofulaceum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium septicum,GCF_000455325.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium servetii,GCF_041206865.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium setense,GCF_000805385.1,M. fortuitum complex,M. fortuitum complex,"","",M. fortuitum complex,TRUE,TRUE,FALSE,FALSE
@@ -247,7 +247,7 @@ Mycobacterium simulans,GCF_900232995.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sinense_A,GCF_001667375.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
 Mycobacterium sinense_B,GCF_001667945.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
 Mycobacterium sinense_C,GCF_001673565.1,,,,,M. terrae complex,FALSE,,TRUE,FALSE
-Mycobacterium smegmatis,GCF_001457595.1,M. smegmatis group,M. smegmatis group,"","",M. smegmatis group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium smegmatis,GCF_001457595.1,M. smegmatis complex,M. smegmatis complex,"","",M. smegmatis complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium sp000328565,GCF_000328565.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp000373905,GCF_000373905.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp000382405,GCF_000382405.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
@@ -278,25 +278,25 @@ Mycobacterium sp001665575,GCF_001665575.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001665685,GCF_001665685.1,,,,,M. fortuitum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001665875,GCF_001665875.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001666755,GCF_001666755.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp001666835,GCF_001666835.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001666835,GCF_001666835.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001667015,GCF_001667015.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001667035,GCF_001667035.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp001667075,GCF_001667075.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667075,GCF_001667075.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001667115,GCF_001667115.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001667145,GCF_001667145.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001667185,GCF_001667185.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001667265,GCF_001667265.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp001667275,GCF_001667275.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667275,GCF_001667275.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001667315,GCF_001667315.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001667505,GCF_001667505.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp001667585,GCF_001667585.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
-Mycobacterium sp001667665,GCF_001667665.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
-Mycobacterium sp001667735,GCF_001667735.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
-Mycobacterium sp001667775,GCF_001667775.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp001667585,GCF_001667585.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001667665,GCF_001667665.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001667735,GCF_001667735.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
+Mycobacterium sp001667775,GCF_001667775.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001667925,GCF_001667925.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001668575,GCF_001668575.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001668615,GCF_001668615.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp001668625,GCF_001668625.1,,,,,M. triviale group,FALSE,,TRUE,FALSE
+Mycobacterium sp001668625,GCF_001668625.1,,,,,M. triviale complex,FALSE,,TRUE,FALSE
 Mycobacterium sp001668725,GCF_001668725.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001672815,GCF_001672815.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp001672895,GCF_001672895.1,,,,,,FALSE,,FALSE,FALSE
@@ -327,7 +327,7 @@ Mycobacterium sp002968335,GCF_002968335.2,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp003053865,GCF_013337765.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp003165155,GCA_003165155.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp003284965,GCF_003284965.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp003402475,GCF_003402475.1,,,,,M. celatum group,FALSE,,TRUE,FALSE
+Mycobacterium sp003402475,GCF_003402475.1,,,,,M. celatum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp003987775,GCF_030755175.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp004298145,GCF_004298145.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp004362315,GCF_004362315.1,,,,,,FALSE,,FALSE,FALSE
@@ -407,7 +407,7 @@ Mycobacterium sp023415515,GCA_023415515.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp023416315,GCA_023416315.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp023460175,GCA_023460175.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp025263265,GCF_025263265.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp025263485,GCF_025263485.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp025263485,GCF_025263485.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp025263565,GCF_025263565.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp025933915,GCF_025933915.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp025963195,GCA_025963195.1,,,,,,FALSE,,FALSE,FALSE
@@ -604,7 +604,7 @@ Mycobacterium sp052144515,GCF_052144515.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp052145595,GCF_052145595.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp900078375,GCA_900078375.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp900240945,GCF_900240945.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp900240975,GCF_900240975.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp900240975,GCF_900240975.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp902652685,GCF_902652685.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp902826815,GCA_902826815.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp903862565,GCA_903862565.1,,,,,,FALSE,,FALSE,FALSE
@@ -642,7 +642,7 @@ Mycobacterium sp963728815,GCA_963728815.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963730415,GCA_963730415.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963731195,GCA_963731195.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963731715,GCA_963731715.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp963732835,GCA_963732835.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp963732835,GCA_963732835.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp963733605,GCA_963733605.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963733755,GCA_963733755.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963734385,GCA_963734385.1,,,,,,FALSE,,FALSE,FALSE
@@ -743,7 +743,7 @@ Mycobacterium sp963816495,GCA_963816495.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963817825,GCA_963817825.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963818285,GCA_963818285.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963818785,GCA_963818785.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp963820045,GCA_963820045.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp963820045,GCA_963820045.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp963820985,GCA_963820985.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963822305,GCA_963822305.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963822655,GCA_963822655.1,,,,,,FALSE,,FALSE,FALSE
@@ -777,7 +777,7 @@ Mycobacterium sp963849055,GCA_963849055.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963849935,GCA_963849935.1,,,,,M. avium complex,FALSE,,TRUE,FALSE
 Mycobacterium sp963850135,GCA_963850135.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp963850645,GCA_963850645.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium sp963850895,GCA_963850895.1,,,,,M. scrofulaceum group,FALSE,,TRUE,FALSE
+Mycobacterium sp963850895,GCA_963850895.1,,,,,M. scrofulaceum complex,FALSE,,TRUE,FALSE
 Mycobacterium sp963851115,GCA_963851115.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp964000695,GCF_964000695.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium sp964195655,GCA_964195655.1,,,,,,FALSE,,FALSE,FALSE
@@ -829,7 +829,7 @@ Mycobacterium thermoresistibile,GCF_900187065.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium tilburgii,GCF_902168065.1,M. simiae complex,M. simiae complex,"","",M. simiae complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium tokaiense,GCF_010725885.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium triplex,GCF_000689255.1,M. simiae complex,M. simiae complex,M. simiae complex,"",M. simiae complex,TRUE,TRUE,FALSE,FALSE
-Mycobacterium triviale,GCF_002102395.1,M. triviale group,M. triviale group,"","",M. triviale group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium triviale,GCF_002102395.1,M. triviale complex,M. triviale complex,"","",M. triviale complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium tuberculosis,GCF_000195955.2,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium tusciae,GCF_002086795.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium tusciae_A,GCF_000243415.2,,,,,,FALSE,,FALSE,FALSE
@@ -843,7 +843,7 @@ Mycobacterium vinylchloridicum,GCF_013404075.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium virginiense,GCF_022374935.2,,,,,M. terrae complex,FALSE,,TRUE,FALSE
 Mycobacterium vulneris,GCF_002104765.1,M. avium complex,M. avium complex,"","",M. avium complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium wendilense,GCF_963378085.1,,,,,,FALSE,,FALSE,FALSE
-Mycobacterium wolinskyi,GCF_002101965.1,M. smegmatis group,"",M. smegmatis group,"",M. smegmatis group,TRUE,TRUE,FALSE,FALSE
+Mycobacterium wolinskyi,GCF_002101965.1,M. smegmatis complex,"",M. smegmatis complex,"",M. smegmatis complex,TRUE,TRUE,FALSE,FALSE
 Mycobacterium wuenschmannii,GCF_030252325.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium xanthum,GCF_019710635.1,,,,,,FALSE,,FALSE,FALSE
 Mycobacterium xenopi,GCF_009936235.1,,,,,,FALSE,,FALSE,FALSE
